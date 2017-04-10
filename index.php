@@ -8,9 +8,10 @@
 				background-color: lightblue;
 				color: black;
 				text-align: center;
+				font-family: Arial, Helvetica, sans-serif;
 			}
 			h1 {
-				font-family: Lobster, times;
+				font-family: Lobster, monospace;
 			}
 		</style>
 	</head>
