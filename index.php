@@ -1,6 +1,13 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+		<style>
+			body {
+				background-color: lightblue;
+				color: #ffeef7;
+				align-content: center;
+			}
+		</style>
 	</head>
 	<body>
 		<p>I am Kelly.
