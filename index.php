@@ -10,8 +10,8 @@
 		</style>
 	</head>
 	<body>
-		<p>I am Kelly.
-			A designer extraordinare.<p>I have a degree in Interactive Multimedia and Advanced Graphic Design.
+		<p><h1>I am Kelly. A designer extraordinare.</h1>
+		<p>I have a degree in Interactive Multimedia and Advanced Graphic Design.
 			<br>I am passionate about combining function, awesome design, and user experiences that make people happy.<br> I love
 			creating
 			challenging, intuitive and beautiful products.<br> My design process is very hands-on and visual.</p>
