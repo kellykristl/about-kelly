@@ -12,7 +12,7 @@
 	</head>
 	<body>
 		<p><h1>I am Kelly. A designer extraordinaire.</h1>
-		<p><i class="fa fa-info-circle"></i>I have a degree in <strong>Interactive Multimedia and Advanced Graphic Design.</strong>
+		<p><i class="fa fa-diamond"></i>I have a degree in <strong>Interactive Multimedia and Advanced Graphic Design.</strong>
 			<br>I am passionate about combining function, awesome design, and user experiences that make people happy.<br> I love
 			creating challenging, intuitive and beautiful products.<br> My design process is very hands-on and visual.</p>
 			<p>I also enjoy <em>Photography, Travel, Hiking, Yoga and spending time with my boys!</em></p>
