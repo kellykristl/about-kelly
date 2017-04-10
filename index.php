@@ -10,7 +10,7 @@
 				text-align: center;
 			}
 			h1 {
-				font-family: Lobster, times;
+				font-family: Lobster, times, Monospace;
 			}
 		</style>
 	</head>
