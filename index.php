@@ -5,6 +5,7 @@
 			body {
 				background-color: lightblue;
 				color: black;
+				text-align: center;
 			}
 		</style>
 	</head>
