@@ -1,12 +1,16 @@
 <!DOCTYPE HTML>
 <html>
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 	<head>
 		<style>
 			body {
 				background-color: lightblue;
 				color: black;
 				text-align: center;
+			}
+			h1 {
+				font-family: Lobster, times;
 			}
 		</style>
 	</head>
