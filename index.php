@@ -10,7 +10,7 @@
 		</style>
 	</head>
 	<body>
-		<p><h1>I am Kelly. A designer extraordinare.</h1>
+		<p><h1>I am Kelly. A designer extraordinaire.</h1>
 		<p>I have a degree in Interactive Multimedia and Advanced Graphic Design.
 			<br>I am passionate about combining function, awesome design, and user experiences that make people happy.<br> I love
 			creating
